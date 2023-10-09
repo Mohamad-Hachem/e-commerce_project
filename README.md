@@ -7,4 +7,4 @@ This is my new e-commerce website created with:
 - Django
 - jquery
 - bootstrap
-  the website will be live soon
+the website will be live soon
